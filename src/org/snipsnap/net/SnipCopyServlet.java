@@ -45,7 +45,7 @@ import java.util.Arrays;
  * Copy Snips
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipCopyServlet extends HttpServlet {
 

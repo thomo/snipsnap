@@ -43,7 +43,7 @@ import dynaop.Invocation;
  * Access Control Interceptor for checking permissions of set operations on objects.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class ACLInterceptor implements Interceptor {
   private Roles roles;

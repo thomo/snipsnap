@@ -38,7 +38,7 @@ import java.util.List;
  * DOES NOT WORK!
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class CacheSnipStorage implements SnipStorage, CacheStorage {

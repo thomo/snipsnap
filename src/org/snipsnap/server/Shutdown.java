@@ -30,7 +30,7 @@ import org.mortbay.util.Log;
 /**
  * Helper class for shutting down the Server
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class Shutdown {
   /**

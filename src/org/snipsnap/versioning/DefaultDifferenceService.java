@@ -31,7 +31,7 @@ import java.util.List;
  * Returns differences between two text strings
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class DefaultDifferenceService implements DifferenceService {

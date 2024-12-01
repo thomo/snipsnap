@@ -31,7 +31,7 @@ import org.snipsnap.jdbc.IntHolder;
  * Wrapper for an Integer which knows about different applications
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class ApplicationAwareIntegerMap extends ApplicationAwareMap {

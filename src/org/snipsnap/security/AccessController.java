@@ -39,7 +39,7 @@ import snipsnap.api.snip.Snip;
  * Check for access to resources and operations
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface AccessController {

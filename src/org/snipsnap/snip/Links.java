@@ -44,7 +44,7 @@ import java.net.MalformedURLException;
  * and internal to internal.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class Links {

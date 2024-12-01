@@ -28,7 +28,7 @@ package org.snipsnap.user;
  * Permission to do something.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Permission {

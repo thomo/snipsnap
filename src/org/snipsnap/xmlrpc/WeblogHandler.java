@@ -31,7 +31,7 @@ package org.snipsnap.xmlrpc;
  * http://weblogapi.antville.org/
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class WeblogHandler extends XmlRpcSupport {

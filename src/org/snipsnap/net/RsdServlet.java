@@ -44,7 +44,7 @@ import java.io.IOException;
  * http://archipelago.phrasewise.com/stories/storyReader$1330
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class RsdServlet extends HttpServlet {
   private Configuration config;

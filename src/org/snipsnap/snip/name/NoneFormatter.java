@@ -30,7 +30,7 @@ package org.snipsnap.snip.name;
  * Formatter that does nothing
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class NoneFormatter implements NameFormatter {

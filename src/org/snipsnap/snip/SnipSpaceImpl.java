@@ -68,7 +68,7 @@ import snipsnap.api.snip.Snip;
  * TODO move changed to Interceptor
  *
  * @author Stephan J. Schmidt  F
- * @version $Id$
+ * 
  */
 
 public class SnipSpaceImpl implements snipsnap.api.snip.SnipSpace {

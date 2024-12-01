@@ -37,7 +37,7 @@ import java.util.Map;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class ScriptMacro extends SnipPreserved {

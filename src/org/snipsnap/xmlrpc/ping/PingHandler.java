@@ -31,7 +31,7 @@ import snipsnap.api.snip.Snip;
  * Interface for all Weblogs.com style ping handlers
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface PingHandler {

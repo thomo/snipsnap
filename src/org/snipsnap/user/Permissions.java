@@ -37,7 +37,7 @@ import java.util.StringTokenizer;
  * roles
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class Permissions {

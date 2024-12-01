@@ -28,7 +28,7 @@ package org.snipsnap.snip.label;
 /**
  * DefaultLabel contains generic metadata without special semantics
  * @author Marco Mosconi
- * @version $Id$
+ * 
  */
 public class DefaultLabel extends BaseLabel {
 

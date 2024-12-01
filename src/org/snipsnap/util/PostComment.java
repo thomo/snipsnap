@@ -35,7 +35,7 @@ import org.snipsnap.user.UserManagerFactory;
 /**
  * Post an example comment.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class PostComment {
   public static void main(String[] args) {

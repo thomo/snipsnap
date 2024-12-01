@@ -41,7 +41,7 @@ import java.io.Writer;
  * Macro that displays all Snips as an index
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class IndexSnipMacro extends ListOutputMacro {

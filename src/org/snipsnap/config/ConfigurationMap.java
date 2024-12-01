@@ -43,7 +43,7 @@ import java.util.Properties;
 /**
  * Implementation of a configuration map which is used as storage for configuration parameters.
  * @see Configuration
- * @version $Id$
+ * 
  */
 public class ConfigurationMap {
 

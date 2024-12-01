@@ -48,7 +48,7 @@ import java.util.Iterator;
 /**
  * Showing the labels of a snip
  * @author Marco Mosconi
- * @version $Id$
+ * 
  */
 public class LabelsServlet extends HttpServlet {
   protected void doPost(HttpServletRequest request, HttpServletResponse response)

@@ -31,7 +31,7 @@ import java.util.Map;
  * ComplexLabel should be an example for some kind of complex label
  * this label could hold meta information about itself
  * @author Marco Mosconi
- * @version $Id$
+ * 
  */
 public class ComplexLabel extends BaseLabel {
     public ComplexLabel() {

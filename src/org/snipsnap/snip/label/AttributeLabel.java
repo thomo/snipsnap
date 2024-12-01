@@ -31,7 +31,7 @@ package org.snipsnap.snip.label;
  * Stores arbitray attributes with name and value
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class AttributeLabel extends DefaultLabel  {

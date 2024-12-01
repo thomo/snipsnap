@@ -35,7 +35,7 @@ import java.io.IOException;
  * a HttpRequestWrapper. It uses JavaMail API for parsing MIME bodies.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class MultipartFilter implements Filter {
 

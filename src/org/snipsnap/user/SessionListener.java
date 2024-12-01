@@ -36,7 +36,7 @@ import javax.servlet.http.HttpSessionListener;
  * user of the timedout session from the current user list
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class SessionListener implements HttpSessionListener {

@@ -43,7 +43,7 @@ import java.util.List;
  * Show the version history of a snip
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class HistoryServlet extends HttpServlet {

@@ -39,7 +39,7 @@ import java.util.Map;
  * This Storage uses one file for persistance.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class OneFileSnipStorage extends FileSnipStorage {

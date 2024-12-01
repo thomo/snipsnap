@@ -44,7 +44,7 @@ import java.net.UnknownHostException;
  * Renders backlinks
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class BackLinks {

@@ -41,7 +41,7 @@ import java.util.Comparator;
  * 2003-10-06/1 2003-10-05/11 2003-10-05/2 2003-10-05/1
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class SnipPostNameComparator implements Comparator {

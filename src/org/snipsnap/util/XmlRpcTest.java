@@ -35,7 +35,7 @@ import java.util.Vector;
  * Small tool to test XML-RPC
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class XmlRpcTest {

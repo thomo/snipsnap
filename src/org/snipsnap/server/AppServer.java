@@ -57,7 +57,7 @@ import java.util.prefs.Preferences;
  * Application Server
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class AppServer {
   protected static Properties serverPrefsDefaults;

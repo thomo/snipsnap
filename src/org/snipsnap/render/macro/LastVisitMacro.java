@@ -42,7 +42,7 @@ import java.util.ResourceBundle;
  * Macro that show last logout time from user
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class LastVisitMacro extends BaseMacro {

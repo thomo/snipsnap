@@ -57,7 +57,7 @@ import gabriel.Permission;
 /**
  * Servlet to store attachments to snips.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class FileUploadServlet extends HttpServlet {
 

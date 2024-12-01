@@ -36,7 +36,7 @@ import java.io.*;
  * AttachmentStorage which stores attachment in the file system
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class FileAttachmentStorage implements AttachmentStorage {

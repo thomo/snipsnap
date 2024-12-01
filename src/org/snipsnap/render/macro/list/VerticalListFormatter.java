@@ -40,7 +40,7 @@ import java.util.Iterator;
  * the formatter renders comments snips different.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class VerticalListFormatter implements ListFormatter {
   public String getName() {

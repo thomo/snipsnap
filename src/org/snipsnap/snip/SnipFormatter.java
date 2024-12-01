@@ -42,7 +42,7 @@ import snipsnap.api.snip.Snip;
  * SnipFormatter supplies some methods for handling Snip Content.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 public class SnipFormatter
 {

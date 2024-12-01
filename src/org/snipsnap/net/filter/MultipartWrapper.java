@@ -48,7 +48,7 @@ import java.util.Map;
  * Access is provided for queryString parameters and all multipart/form-data entries.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class MultipartWrapper extends HttpServletRequestWrapper {
 

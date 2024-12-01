@@ -33,7 +33,7 @@ import java.util.Comparator;
  * Compares to snips for sorting
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class SnipComparator implements Comparator {

@@ -44,7 +44,7 @@ import java.io.StringWriter;
  * and generate an extract.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class ContentTag extends TagSupport {

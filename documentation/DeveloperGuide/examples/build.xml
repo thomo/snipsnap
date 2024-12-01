@@ -2,7 +2,7 @@
 
 <!--
   ** @author Stephan J. Schmidt
-  ** @version $Id$
+  ** 
   -->
  <project basedir="." default="compile" name="Radeox Examples">
 

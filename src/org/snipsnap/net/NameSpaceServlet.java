@@ -40,7 +40,7 @@ import java.io.IOException;
  * Get some data from a snip and render the content
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class NameSpaceServlet extends HttpServlet {
 

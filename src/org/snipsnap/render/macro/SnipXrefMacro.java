@@ -48,7 +48,7 @@ import java.text.MessageFormat;
  * displays the snips reference to the snip for the input string.
  *
  * @author Mario Ivankovits
- * @version $Id$
+ * 
  */
 
 public class SnipXrefMacro extends BaseMacro {

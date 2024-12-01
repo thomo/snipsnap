@@ -30,7 +30,7 @@ import java.security.NoSuchAlgorithmException;
 /**
  * Digest handler for encrypting passwords.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class Digest {
   private static MessageDigest digest;

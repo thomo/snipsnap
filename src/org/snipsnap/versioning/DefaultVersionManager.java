@@ -34,7 +34,7 @@ import java.util.List;
  * Manages revisions for snips
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class DefaultVersionManager implements VersionManager {

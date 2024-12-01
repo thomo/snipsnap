@@ -55,7 +55,7 @@ import java.util.*;
  * then persist the snip to one or several files.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class FileSnipStorage implements CacheableStorage, VersionStorage, SnipStorage {

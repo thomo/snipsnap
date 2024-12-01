@@ -42,7 +42,7 @@ import java.util.Collection;
  * since the users last login
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 

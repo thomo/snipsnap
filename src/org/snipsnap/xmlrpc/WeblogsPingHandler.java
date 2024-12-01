@@ -36,7 +36,7 @@ import snipsnap.api.xmlrpc.SnipSnapPing;
  * http://www.weblogs.com
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class WeblogsPingHandler extends XmlRpcSupport {

@@ -31,7 +31,7 @@ import java.util.*;
  * Kit which applies Queries to Lists
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class QueryKit {

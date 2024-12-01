@@ -46,7 +46,7 @@ import java.util.jar.Manifest;
  * Launcher for Java Applications. Creates the classpath and then starts the application.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class Launcher {
   public final static String CLASSPATH = "launcher.classpath";

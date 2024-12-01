@@ -39,7 +39,7 @@ import snipsnap.api.user.User;
  * Default user manager uses a UserStorage component for storage
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class DefaultUserManager implements UserManager {

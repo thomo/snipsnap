@@ -34,7 +34,7 @@ import java.util.*;
  * CacheManager for caching Objects (Snips).
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 public class Cache {
   private Map caches;

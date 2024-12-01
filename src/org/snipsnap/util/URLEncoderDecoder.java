@@ -34,7 +34,7 @@ import java.util.BitSet;
  * what has been set in the virtual machine.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class URLEncoderDecoder {
 

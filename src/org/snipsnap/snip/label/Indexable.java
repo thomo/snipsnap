@@ -31,7 +31,7 @@ import org.apache.lucene.document.Document;
  * Objects that are indexable with lucene
  *
  * @author Stephan Schmidt
- * @version $Id$
+ * 
  */
 public interface Indexable {
   void index(Document document);

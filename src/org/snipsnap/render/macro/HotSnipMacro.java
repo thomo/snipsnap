@@ -46,7 +46,7 @@ import java.util.ResourceBundle;
  * Macro that displays the hottest snips, currently the most viewed.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class HotSnipMacro extends BaseMacro {

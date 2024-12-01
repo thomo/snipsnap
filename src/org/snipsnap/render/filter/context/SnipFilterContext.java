@@ -37,7 +37,7 @@ import snipsnap.api.snip.Snip;
  * the snip in which it is called.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipFilterContext extends BaseFilterContext {

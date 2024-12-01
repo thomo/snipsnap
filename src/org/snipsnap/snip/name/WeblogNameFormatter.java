@@ -29,7 +29,7 @@ package org.snipsnap.snip.name;
  * Formatter that capitalizes the name of weblogs and comments of weblogse
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class WeblogNameFormatter implements NameFormatter {

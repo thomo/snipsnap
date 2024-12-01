@@ -44,7 +44,7 @@ import java.util.Properties;
  * are stored in properties files.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class PropertyFileUserStorage extends FileUserStorage {

@@ -37,7 +37,7 @@ import java.util.Vector;
  * Some design ideas taken from Blojsom, thanks.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface MetaWeblogAPI extends BloggerAPI {

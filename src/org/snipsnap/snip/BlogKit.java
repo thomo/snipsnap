@@ -31,7 +31,7 @@ import java.sql.Date;
  * Helper methods for blogs.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class BlogKit {

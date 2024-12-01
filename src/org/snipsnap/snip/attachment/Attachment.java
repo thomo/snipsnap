@@ -33,7 +33,7 @@ import java.util.Date;
  * Class for grouping and managing attachments for a snip
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class Attachment {

@@ -50,7 +50,7 @@ import java.util.Map;
  * Adding a label to a snip
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class StoreLabelServlet extends HttpServlet {
 

@@ -37,7 +37,7 @@ import java.io.Writer;
  * Example which shows howto get the Snip from the context.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 // cut:start-1

@@ -42,7 +42,7 @@ import java.util.Map;
  * A snip serializer that can store and load snips in XML format.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipSerializer extends SnipDataSerializer {
   private static SnipSerializer serializer = null;

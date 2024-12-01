@@ -34,7 +34,7 @@ import org.snipsnap.user.AuthenticationService;
 /**
  * SnipLabel connects a Snip to another Snip (should it be possible to reference more than one Snip?)
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class SnipLabel extends BaseLabel {
     public SnipLabel() {

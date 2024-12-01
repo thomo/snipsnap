@@ -32,7 +32,7 @@ import snipsnap.api.snip.SnipSpaceFactory;
 /**
  * Static class to create a home-page snip.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class HomePage {
   /**

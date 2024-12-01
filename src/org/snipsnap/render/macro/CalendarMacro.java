@@ -37,7 +37,7 @@ import java.io.Writer;
  * Macro that displays a list of currently logged on users.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class CalendarMacro extends BaseMacro {

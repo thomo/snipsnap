@@ -38,7 +38,7 @@ import java.util.HashMap;
  * to exists() cached.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class MissingInterceptor extends DispatchInterceptor {
   // @TODO we use map instead of set to increment the

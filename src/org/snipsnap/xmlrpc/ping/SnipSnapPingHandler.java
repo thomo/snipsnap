@@ -39,7 +39,7 @@ import java.util.Vector;
  * Iplementation of the extended weblogs ping, e.g. at blo.gs
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipSnapPingHandler implements PingHandler {

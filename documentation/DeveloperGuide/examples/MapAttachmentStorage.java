@@ -38,7 +38,7 @@ import java.util.HashMap;
  * as the value.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 // cut:start-1

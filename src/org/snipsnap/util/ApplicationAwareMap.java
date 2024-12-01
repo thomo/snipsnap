@@ -36,7 +36,7 @@ import java.util.Map;
  * Wrapper for a Map which knows about different applications
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class ApplicationAwareMap {

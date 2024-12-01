@@ -50,7 +50,7 @@ import java.io.Writer;
  * howto include other snips.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipRenderEngine extends BaseRenderEngine

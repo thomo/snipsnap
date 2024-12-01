@@ -41,7 +41,7 @@ import java.util.ResourceBundle;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class AnchorMacro extends SnipMacro {

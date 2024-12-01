@@ -43,7 +43,7 @@ import java.util.Map;
  * Base class for macros outputting a list, e.g. user-list
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public abstract class ListOutputMacro extends SnipMacro {

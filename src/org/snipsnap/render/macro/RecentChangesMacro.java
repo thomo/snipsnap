@@ -37,7 +37,7 @@ import java.util.List;
  * Macro that displays recently changed snips
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class RecentChangesMacro extends ListOutputMacro {

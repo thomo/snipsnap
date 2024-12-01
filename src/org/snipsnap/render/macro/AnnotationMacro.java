@@ -27,7 +27,7 @@
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 package org.snipsnap.render.macro;

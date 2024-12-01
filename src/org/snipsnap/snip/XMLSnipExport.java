@@ -53,7 +53,7 @@ import snipsnap.api.snip.Snip;
 /**
  * Helper class for exporting Snips and users as XML document.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class XMLSnipExport {
 

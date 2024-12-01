@@ -44,7 +44,7 @@ import java.io.IOException;
 /**
  * Load a snip to view.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipSearchServlet extends HttpServlet {
 

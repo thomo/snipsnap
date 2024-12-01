@@ -47,7 +47,7 @@ import java.util.Properties;
  * Mail manager to send and receive mail
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Mail {

@@ -31,7 +31,7 @@ import java.sql.Timestamp;
  * Information about a Snip version
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class VersionInfo {

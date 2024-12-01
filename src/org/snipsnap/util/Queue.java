@@ -34,7 +34,7 @@ import java.util.List;
 /**
  * Queue implementation for Snips.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class Queue {
   private LinkedList queue;

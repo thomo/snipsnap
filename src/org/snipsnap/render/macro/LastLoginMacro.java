@@ -39,7 +39,7 @@ import java.io.Writer;
  * Macro that shows lastlogin of user
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class LastLoginMacro extends BaseMacro {

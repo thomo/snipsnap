@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * User manager handles all register, creation and authentication of users.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public interface UserManager {
   /**

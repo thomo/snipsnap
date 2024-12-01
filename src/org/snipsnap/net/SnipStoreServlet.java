@@ -46,7 +46,7 @@ import java.io.IOException;
  * Servlet to store snips into the database after they have been edited.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipStoreServlet extends HttpServlet {
   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

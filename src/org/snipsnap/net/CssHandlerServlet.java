@@ -46,7 +46,7 @@ import java.util.HashMap;
  * Handler for CSS Stylesheets (virtual)
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class CssHandlerServlet extends HttpServlet {
   private final static String THEME_NAME = "snipsnap.theme.name";

@@ -44,7 +44,7 @@ import java.util.Set;
  * Handler for comments added to snips.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class Comments {
   private Snip snip;

@@ -40,7 +40,7 @@ import java.io.IOException;
 /**
  * Servlet for handling theme images attached to the main theme snip.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class ThemeImageServlet extends HttpServlet {
 

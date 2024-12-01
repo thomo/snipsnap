@@ -41,7 +41,7 @@ import java.io.Writer;
  * and sending a message.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 // cut:start-1

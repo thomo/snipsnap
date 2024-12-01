@@ -31,7 +31,7 @@ import snipsnap.api.snip.Snip;
  * Supplies a query interface for snips
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class SnipQuery implements Query {

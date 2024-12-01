@@ -34,7 +34,7 @@ import java.util.*;
  * List with a query interface
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class QueryList implements List {

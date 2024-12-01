@@ -49,7 +49,7 @@ import java.io.OutputStream;
  * Test for the attachment examples
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class AttachmentTest extends TestCase {

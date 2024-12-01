@@ -39,7 +39,7 @@ import java.util.HashMap;
  * a getSnip() method to get the current Snip
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipMacroParameter extends BaseMacroParameter  {

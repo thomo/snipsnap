@@ -46,7 +46,7 @@ import java.io.IOException;
 /**
  * Servlet for downloading attachments.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class FileDownloadServlet extends HttpServlet {
 

@@ -35,7 +35,7 @@ import java.util.Iterator;
  * Returns differences between two files
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class DiffFile {

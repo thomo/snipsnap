@@ -31,7 +31,7 @@ import snipsnap.api.user.User;
  *  Interface for all objects that can be owned
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public interface Ownable {

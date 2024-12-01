@@ -1,7 +1,7 @@
 <!--
   ** Initial installation ...
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   -->
 
 <%@ page pageEncoding="iso-8859-1" %>

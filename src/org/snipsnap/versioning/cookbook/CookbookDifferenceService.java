@@ -34,7 +34,7 @@ import java.util.List;
  * and implements the DifferenceService component inferface
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class CookbookDifferenceService implements DifferenceService {

@@ -32,7 +32,7 @@ import snipsnap.api.app.Application;
  * Concrete Logger that logs to Application
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public abstract class ApplicationLogger implements LogHandler {

@@ -33,7 +33,7 @@ import snipsnap.api.app.Application;
  * Handles XML-RPC calls for the Generator API
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class GeneratorHandler extends XmlRpcSupport {

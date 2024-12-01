@@ -31,7 +31,7 @@ import snipsnap.api.container.Components;
  * is a facade to component containers like Pico
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class UserManagerFactory {
     public static synchronized UserManager getInstance() {

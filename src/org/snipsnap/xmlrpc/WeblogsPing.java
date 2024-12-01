@@ -48,7 +48,7 @@ import java.util.Map;
  * Pings weblogs.com
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class WeblogsPing extends Thread implements Consumer {

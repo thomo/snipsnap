@@ -42,7 +42,7 @@ import java.util.Map;
  * Manages configurations of this web application (different contexts)
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class ConfigurationManager implements Consumer {
   private static ConfigurationManager configManager = null;

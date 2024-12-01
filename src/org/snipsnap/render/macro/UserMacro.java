@@ -37,7 +37,7 @@ import java.io.Writer;
  * Macro that displays all users
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class UserMacro extends ListOutputMacro {

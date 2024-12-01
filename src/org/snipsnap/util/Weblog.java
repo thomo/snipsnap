@@ -32,7 +32,7 @@ import java.util.Date;
  * Weblog represents external SnipSnap weblogs
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Weblog implements org.snipsnap.render.macro.list.Linkable {

@@ -45,7 +45,7 @@ import java.io.Writer;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class Java2HtmlCodeFilter extends JavaSource2HTMLConverter implements SourceCodeFormatter {

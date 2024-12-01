@@ -33,7 +33,7 @@ import java.io.Writer;
  * a Writer.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface Appendable {

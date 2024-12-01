@@ -38,7 +38,7 @@ import java.util.Vector;
  * RSS implementation of the default RSS weblogs.com ping
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class RssPingHandler implements PingHandler {

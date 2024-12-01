@@ -32,7 +32,7 @@ import java.util.Collection;
  * List formatter interface. List formatters are loaded via the plugin mechanism.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public interface ListFormatter {
   public String getName();

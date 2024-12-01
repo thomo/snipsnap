@@ -29,7 +29,7 @@ package org.snipsnap.snip.storage.query;
  * Supplies a query interface.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface Query {

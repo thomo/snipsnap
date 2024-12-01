@@ -49,7 +49,7 @@ import java.util.Map;
 
 /**
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class InitializeDatabase {
 

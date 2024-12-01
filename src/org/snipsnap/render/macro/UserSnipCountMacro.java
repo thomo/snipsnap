@@ -38,7 +38,7 @@ import java.util.Collection;
  * wrote.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class UserSnipCountMacro extends ListOutputMacro {

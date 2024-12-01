@@ -37,7 +37,7 @@ import java.util.List;
  * Macro that displays a list of currently logged on users.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class LoginsMacro extends ListOutputMacro {

@@ -30,7 +30,7 @@ package org.snipsnap.render.filter.links;
  * specially format Google links
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public interface UrlFormatter {

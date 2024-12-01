@@ -33,7 +33,7 @@ import java.util.Iterator;
  * Simple list formatter.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SimpleList implements ListFormatter {
   public String getName() {

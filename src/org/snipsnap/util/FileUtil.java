@@ -36,7 +36,7 @@ import java.util.zip.CheckedInputStream;
 /**
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class FileUtil {
 

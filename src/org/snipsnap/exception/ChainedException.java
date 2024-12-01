@@ -30,7 +30,7 @@ import org.radeox.util.logging.Logger;
  * ChainedException is a base class for Exception and support wrapping original exceptions
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  **/
 public class ChainedException extends Exception {
   private Throwable cause = null;

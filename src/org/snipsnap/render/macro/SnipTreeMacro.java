@@ -49,7 +49,7 @@ import java.util.Map;
  * macro.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class SnipTreeMacro extends BaseMacro {

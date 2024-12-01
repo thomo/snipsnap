@@ -4,7 +4,7 @@ package org.snipsnap.util;
  * Generates a range of HTML compatible colors from start to end
  *
  * @author stephan
- * @version $Id$
+ * 
  **/
 
 public class ColorRange {

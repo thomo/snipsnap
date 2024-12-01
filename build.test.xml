@@ -2,7 +2,7 @@
 
 <!--
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   -->
 <project basedir="." default="test" name="SnipSnap.test">
   <description>

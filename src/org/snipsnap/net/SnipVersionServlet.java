@@ -43,7 +43,7 @@ import java.util.List;
  * Show a given version of a snip
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipVersionServlet extends HttpServlet {

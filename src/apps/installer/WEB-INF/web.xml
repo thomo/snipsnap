@@ -6,7 +6,7 @@
 <!--
   ** Web Application configuration for installer application.
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   -->
 <web-app>
   <display-name>SnipSnap Installer</display-name>

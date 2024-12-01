@@ -43,7 +43,7 @@ import java.util.ResourceBundle;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class CalendarFilter extends RegexTokenFilter {

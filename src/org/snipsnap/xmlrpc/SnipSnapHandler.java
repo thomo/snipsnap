@@ -61,7 +61,7 @@ import snipsnap.api.container.Components;
  * Handles XML-RPC calls for the SnipSnap API
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipSnapHandler extends AuthXmlRpcHandler implements XmlRpcHandler {

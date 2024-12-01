@@ -40,7 +40,7 @@ import java.io.PrintWriter;
  * Servlet to login recognise a robot. This servlet is mapped to robots.txt
  * and updates the list of robot addresses in usermanager.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class RobotServlet extends HttpServlet {
 

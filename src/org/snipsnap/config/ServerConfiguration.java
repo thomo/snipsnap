@@ -34,7 +34,7 @@ import java.util.Properties;
 /**
  * A configuration object. Contains information about server and admin login.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class ServerConfiguration {
 

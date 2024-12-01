@@ -30,7 +30,7 @@ package org.snipsnap.notification;
  * Simple Message to be sent with MessageService
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Message {

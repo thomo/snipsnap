@@ -45,7 +45,7 @@ import java.util.Map;
  * are stored in files.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class FileUserStorage implements UserStorage {

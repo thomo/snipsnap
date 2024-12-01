@@ -40,7 +40,7 @@ import java.util.regex.Matcher;
  * are used as seperators.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Rssify {

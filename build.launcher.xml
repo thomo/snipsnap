@@ -2,7 +2,7 @@
 
 <!--
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   -->
 <project basedir="." default="bundle" name="SnipSnap.launcher">
   <description>
@@ -24,4 +24,3 @@
   </target>
 
 </project>
-

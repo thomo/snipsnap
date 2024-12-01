@@ -50,7 +50,7 @@ import java.util.Properties;
  * Application Server handler that loads, starts, stops and unloads applications.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class ApplicationLoader {
   private final static String WEBINF = "__WEBINF";

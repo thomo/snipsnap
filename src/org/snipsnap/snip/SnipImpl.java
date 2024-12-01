@@ -62,7 +62,7 @@ import snipsnap.api.snip.SnipSpaceFactory;
  * TODO: cUser, mUser, cTime, ... -> modified to composite object
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class SnipImpl implements Snip, ProxyAware {
   private Snip proxy;

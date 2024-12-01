@@ -38,7 +38,7 @@ import java.util.Map;
  * A snip data serializer that can store snip data in XML format.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipDataSerializer extends SerializerSupport implements Serializer {
   public final static String SNIP = "snip";

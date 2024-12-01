@@ -49,7 +49,7 @@ import java.util.Map;
  * Servlet to register a new user.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class NewUserServlet extends HttpServlet {
   private final static String ERR_EXISTS = "login.register.error.user.exists";

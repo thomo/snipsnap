@@ -43,7 +43,7 @@ import java.text.MessageFormat;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class OnlineTimeMacro extends BaseMacro {

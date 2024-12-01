@@ -51,7 +51,7 @@ import java.util.Map;
  * Class for grouping and managing attachments for a snip
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Attachments {

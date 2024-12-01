@@ -37,7 +37,7 @@ import java.util.List;
  * be extended to provide easier intra-container communication
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class MessageService {

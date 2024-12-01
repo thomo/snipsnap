@@ -2,7 +2,7 @@
  <%--
   ** Template for adding Labels
   ** @author Stephan J. Schmidt
-  ** @version $Id$
+  ** 
   --%>
 
 <%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>

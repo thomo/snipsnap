@@ -39,7 +39,7 @@ import java.util.Map;
  * A user serializer that can store and load users in XML format.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class UserSerializer extends SerializerSupport {
   public final static String USER = "user";

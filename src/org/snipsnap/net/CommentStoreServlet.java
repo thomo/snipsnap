@@ -48,7 +48,7 @@ import java.io.IOException;
  * Servlet to store comments.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class CommentStoreServlet extends HttpServlet {
   public void doPost(HttpServletRequest request, HttpServletResponse response)

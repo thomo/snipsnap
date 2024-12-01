@@ -43,7 +43,7 @@ import java.io.Writer;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class PgpFilter extends RegexTokenFilter {

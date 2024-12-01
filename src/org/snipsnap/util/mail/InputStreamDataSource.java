@@ -32,7 +32,7 @@ import java.io.OutputStream;
 /**
  * A datasource for InputStream type sources.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class InputStreamDataSource implements DataSource {
   InputStream inputStream = null;

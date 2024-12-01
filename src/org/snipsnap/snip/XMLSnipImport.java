@@ -60,7 +60,7 @@ import snipsnap.api.snip.Snip;
  * Helper class for importing serialized database backups.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class XMLSnipImport {
   public final static int IMPORT_USERS = 0x01;

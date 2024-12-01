@@ -47,7 +47,7 @@ import java.util.*;
  * Stores Access information for a snip like viewCount, backLinks, ...
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class Access {

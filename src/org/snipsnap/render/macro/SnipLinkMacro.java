@@ -36,7 +36,7 @@ import java.io.Writer;
  * This was inspired by the Everything2
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipLinkMacro extends ListOutputMacro {

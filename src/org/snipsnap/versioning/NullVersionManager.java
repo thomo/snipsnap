@@ -39,7 +39,7 @@ import java.util.ArrayList;
  * values for those who do call this.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class NullVersionManager implements VersionManager {

@@ -39,7 +39,7 @@ import snipsnap.api.snip.SnipLink;
  * Handle trees of snips with paths.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class SnipPath {

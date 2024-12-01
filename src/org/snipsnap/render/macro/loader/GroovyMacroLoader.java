@@ -42,7 +42,7 @@ import java.io.InputStream;
  * instead of Java
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class GroovyMacroLoader extends MacroLoader implements Consumer {

@@ -34,7 +34,7 @@ import java.io.PrintStream;
  * invoking AppServer.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipSnapLauncher extends Launcher {
 

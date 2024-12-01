@@ -28,7 +28,7 @@ package org.snipsnap.exception;
  * Example exception.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  **/
 public class ExampleException extends ChainedException {
   public ExampleException(String message, Throwable cause) {

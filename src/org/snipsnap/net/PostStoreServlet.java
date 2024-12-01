@@ -49,7 +49,7 @@ import java.io.IOException;
 /**
  * Servlet to store comments.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class PostStoreServlet extends HttpServlet {
   private static Roles REQUIRED_ROLES;

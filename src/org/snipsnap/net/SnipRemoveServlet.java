@@ -41,7 +41,7 @@ import java.io.IOException;
  * Servlet to remove snips from the database.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipRemoveServlet extends HttpServlet {
   public void doGet(HttpServletRequest request, HttpServletResponse response)

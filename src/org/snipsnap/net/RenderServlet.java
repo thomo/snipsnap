@@ -52,7 +52,7 @@ import java.util.Map;
  * by img tags or similar.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class RenderServlet extends HttpServlet {
   private final static String RENDER_ID = "__render_id";

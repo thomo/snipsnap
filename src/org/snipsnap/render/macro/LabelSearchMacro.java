@@ -45,7 +45,7 @@ import java.util.List;
  * Macro that displays all Snips with a certain label
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class LabelSearchMacro extends ListOutputMacro {

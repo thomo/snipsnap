@@ -30,7 +30,7 @@ package org.snipsnap.snip.storage;
  * Interface for loading classes
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public interface Storage {

@@ -42,7 +42,7 @@ import java.io.PrintWriter;
 /**
  * Output the raw content of a snip
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class SnipRawServlet extends HttpServlet {
 

@@ -34,7 +34,7 @@ import java.io.IOException;
  * Render some input to an output stream
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public interface ContentRenderer {
   public String getName();

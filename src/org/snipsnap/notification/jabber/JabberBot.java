@@ -36,7 +36,7 @@ import snipsnap.api.app.Application;
  * receive and send jabber group and private messages.
  *
  * @author Stephan J.Schmidt
- * @version $Id$
+ * 
  */
 
 public class JabberBot {

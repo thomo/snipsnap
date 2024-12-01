@@ -38,7 +38,7 @@ import java.util.Vector;
  * Simple implementation of the default weblogs.com ping
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SimplePingHandler implements PingHandler {

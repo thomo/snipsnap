@@ -37,7 +37,7 @@ import java.util.TreeMap;
  * Formats a list as AtoZ listing separated by the alphabetical characters.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class AtoZListFormatter implements ListFormatter {
   public String getName() {

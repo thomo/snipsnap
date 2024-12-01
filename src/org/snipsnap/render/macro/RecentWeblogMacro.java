@@ -39,7 +39,7 @@ import java.util.Collection;
  * that run SnipSnap.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class RecentWeblogMacro extends ListOutputMacro {

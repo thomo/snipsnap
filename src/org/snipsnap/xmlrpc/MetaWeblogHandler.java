@@ -59,7 +59,7 @@ import org.snipsnap.security.AccessController;
  * Some design ideas taken from Blojsom, thanks.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class MetaWeblogHandler extends XmlRpcSupport implements MetaWeblogAPI {

@@ -40,7 +40,7 @@ import java.util.Iterator;
  * Example for reading the attachments from a snip
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class ShowAttachmentsMacro extends SnipMacro {

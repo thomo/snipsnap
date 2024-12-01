@@ -39,7 +39,7 @@ import java.io.Writer;
  * MacroParameter
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class SnipMacro extends BaseMacro {

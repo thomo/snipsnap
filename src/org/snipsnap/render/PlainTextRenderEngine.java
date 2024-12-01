@@ -45,7 +45,7 @@ import java.io.BufferedReader;
  * Renderengine for preformattet text.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class PlainTextRenderEngine implements RenderEngine {

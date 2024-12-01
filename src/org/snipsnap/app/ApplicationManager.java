@@ -37,7 +37,7 @@ import java.util.Properties;
  * SnipSnap instance.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class ApplicationManager {

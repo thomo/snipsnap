@@ -39,7 +39,7 @@ import java.util.Iterator;
  * Renders sniplinks
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipLinks {

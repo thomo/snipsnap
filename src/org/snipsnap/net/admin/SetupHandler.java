@@ -36,7 +36,7 @@ import java.util.Map;
  * A setup handler interface for SnipSnap configuration.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public interface SetupHandler {
   /**

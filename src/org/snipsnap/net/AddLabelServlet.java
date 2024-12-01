@@ -46,7 +46,7 @@ import java.io.IOException;
 /**
  * Adding a label to a snip
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class AddLabelServlet extends HttpServlet {
   protected void doPost(HttpServletRequest request, HttpServletResponse response)

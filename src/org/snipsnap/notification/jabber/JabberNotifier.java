@@ -30,7 +30,7 @@ import org.snipsnap.notification.Notifier;
 /**
  * Sends notifications via Jabber IM service
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class JabberNotifier implements Notifier {

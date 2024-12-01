@@ -35,7 +35,7 @@ import java.io.IOException;
  * Interface that describes backends for attachment storage
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface AttachmentStorage {

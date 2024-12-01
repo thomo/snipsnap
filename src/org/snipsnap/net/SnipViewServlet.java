@@ -50,7 +50,7 @@ import java.util.Map;
  * Load a snip to view.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipViewServlet extends HttpServlet {
   private final static Roles authRoles = new Roles(Roles.AUTHENTICATED);

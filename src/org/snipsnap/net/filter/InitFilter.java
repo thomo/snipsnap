@@ -71,7 +71,7 @@ import java.util.Map;
  * application object and parameter information for servlets down the chain.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class InitFilter implements Filter {
   // private final static String

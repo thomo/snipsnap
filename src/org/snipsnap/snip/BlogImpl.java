@@ -47,7 +47,7 @@ import snipsnap.api.snip.Snip;
  * BlogImpl for Blog.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class BlogImpl implements Blog, ProxyAware {

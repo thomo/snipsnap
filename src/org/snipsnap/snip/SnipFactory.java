@@ -33,7 +33,7 @@ import snipsnap.api.snip.Snip;
  * Single point for creating Snips
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipFactory {

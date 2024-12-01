@@ -35,7 +35,7 @@ import java.net.URL;
  * http://www.google.de/search?q=pivot%20weblog&ie=UTF-8&oe=UTF-8&hl=de&meta=
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class GoogleUrlFormatter implements UrlFormatter {

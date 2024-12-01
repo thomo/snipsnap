@@ -38,7 +38,7 @@ import java.util.ResourceBundle;
  *
  * @author stephan
  * @team sonicteam
- * @version $Id$
+ * 
  */
 
 public class FieldMacro extends SnipMacro {

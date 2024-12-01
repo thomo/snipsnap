@@ -52,7 +52,7 @@ import java.util.List;
  * the snip is newly created put the name into "snip_name".
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class SnipEditServlet extends HttpServlet {
 

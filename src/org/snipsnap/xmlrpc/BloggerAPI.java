@@ -34,7 +34,7 @@ import java.util.Vector;
  * http://plant.blogger.com/api/index.html
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface BloggerAPI extends XmlRpcHandler {

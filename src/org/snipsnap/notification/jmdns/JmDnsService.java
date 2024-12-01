@@ -41,7 +41,7 @@ import java.util.ArrayList;
  * Announce SnipSnaps with JmDns (like Apple Rendezvous)
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class JmDnsService implements Startable, ServiceListener {

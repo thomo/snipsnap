@@ -35,7 +35,7 @@ import java.util.*;
  * Manages security and checks if a role has a permission.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class DefaultPermissionManager implements PermissionManager {

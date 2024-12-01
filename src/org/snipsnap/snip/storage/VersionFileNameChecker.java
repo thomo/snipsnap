@@ -33,7 +33,7 @@ import java.io.File;
  * return the version of the file
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 interface VersionFileNameChecker extends FilenameFilter {

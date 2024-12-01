@@ -45,7 +45,7 @@ import org.snipsnap.util.URLEncoderDecoder;
  * Label which categoriezes snips
  *
  * @author Franziska Wohl
- * @version $id$
+ * 
  */
 public class CategoryLabel extends BaseLabel {
 

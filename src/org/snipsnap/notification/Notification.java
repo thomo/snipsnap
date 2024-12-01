@@ -29,7 +29,7 @@ package org.snipsnap.notification;
  * Type definitions
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class Notification {

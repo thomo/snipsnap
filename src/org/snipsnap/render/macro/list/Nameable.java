@@ -29,7 +29,7 @@ package org.snipsnap.render.macro.list;
  * Objects with a name
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public interface Nameable {

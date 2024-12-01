@@ -35,7 +35,7 @@ import org.snipsnap.notification.Message;
  * logs all messages.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class MessageLogService implements Consumer, Component {

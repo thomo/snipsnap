@@ -42,7 +42,7 @@ import java.io.UnsupportedEncodingException;
  * A ServletFilter that parses ensures correctly encoded requests
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class EncRequestFilter implements Filter {
 

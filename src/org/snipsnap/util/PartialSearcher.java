@@ -37,7 +37,7 @@ import java.util.*;
  *
  * credit Jack Shirazi
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class PartialSearcher implements Map {

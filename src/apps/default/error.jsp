@@ -1,7 +1,7 @@
 <!--
   ** SnipSnap Fatal Error Page
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   -->
 
 <%@ page import="java.io.PrintWriter" %>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   -->
 <project basedir="." default="all" name="SnipSnap">
 
@@ -664,5 +664,3 @@
   </target>
 
 </project>
-
-

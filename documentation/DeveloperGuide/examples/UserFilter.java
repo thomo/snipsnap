@@ -35,7 +35,7 @@ import org.snipsnap.snip.Snip;
  * Example which shows howto get the Snip from the filter context.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 // cut:start-1

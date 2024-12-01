@@ -60,7 +60,7 @@ import java.util.List;
  * Content of a snip.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class Content {
   private String text;

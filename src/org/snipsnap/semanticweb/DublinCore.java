@@ -40,7 +40,7 @@ import java.util.TimeZone;
  * http://dublincore.org/documents/dces/
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class DublinCore {

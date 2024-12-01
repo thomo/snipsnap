@@ -47,7 +47,7 @@ import java.io.IOException;
  * is mailed to the user.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class ChangePasswordServlet extends HttpServlet {
   private final static String ERR_PASSWORD = "User name and password do not match!";

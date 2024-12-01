@@ -31,7 +31,7 @@ import java.util.*;
  * User roleSet
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class Roles {

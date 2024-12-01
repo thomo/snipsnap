@@ -52,7 +52,7 @@ import snipsnap.api.snip.SnipSpaceFactory;
  * than Snip content.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class RssSnip implements snipsnap.api.snip.Snip {

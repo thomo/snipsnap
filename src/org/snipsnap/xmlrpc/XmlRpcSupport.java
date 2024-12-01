@@ -40,7 +40,7 @@ import snipsnap.api.user.User;
  * (both ways).
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public abstract class XmlRpcSupport implements XmlRpcHandler {
    protected AuthenticationService authenticationService;

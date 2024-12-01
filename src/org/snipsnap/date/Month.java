@@ -36,7 +36,7 @@ import java.util.*;
  * Object that generates a View of the month
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class Month {
 

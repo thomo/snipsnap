@@ -37,7 +37,7 @@ import java.util.Map;
  * Boolean Label for true/false functionality
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class BooleanLabel implements snipsnap.api.label.Label {

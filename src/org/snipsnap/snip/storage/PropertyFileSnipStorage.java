@@ -38,7 +38,7 @@ import java.util.Properties;
  * and the content to a plain text file
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class PropertyFileSnipStorage extends TwoFileSnipStorage {

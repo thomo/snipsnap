@@ -47,7 +47,7 @@ import java.util.*;
 
 /**
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class ConfigureServlet extends HttpServlet {
 

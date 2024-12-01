@@ -39,7 +39,7 @@ import java.io.IOException;
  * Tag that displays the path of a snip.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class PathTag extends TagSupport {

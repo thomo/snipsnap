@@ -36,7 +36,7 @@ import java.util.List;
  * blog functionality.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public interface Blog {

@@ -32,7 +32,7 @@ import java.util.List;
  * Queues notifications
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class NotificationQueue {

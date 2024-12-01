@@ -30,7 +30,7 @@ package org.snipsnap.notification;
  * notifications
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface Notifier {

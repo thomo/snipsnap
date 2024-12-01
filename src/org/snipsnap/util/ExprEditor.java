@@ -42,7 +42,7 @@ import java.util.regex.Matcher;
  * Example: "(/\*.*?part of.*?\* /)" (remove last space!)
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class ExprEditor {
 

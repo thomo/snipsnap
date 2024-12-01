@@ -29,7 +29,7 @@ package org.snipsnap.xmlrpc;
  * Interface for XML-RPC Handlers
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface XmlRpcHandler {

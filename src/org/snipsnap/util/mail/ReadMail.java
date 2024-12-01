@@ -34,7 +34,7 @@ import java.util.Properties;
  * Read mails from e.g. Pop3 for remote blogging
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class ReadMail {

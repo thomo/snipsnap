@@ -45,7 +45,7 @@ import java.util.Properties;
 /**
  * Output a snip as RDF
  * @author Marco Mosconi
- * @version $Id$
+ * 
  */
 public class RdfServlet extends HttpServlet {
     private snipsnap.api.config.Configuration config;

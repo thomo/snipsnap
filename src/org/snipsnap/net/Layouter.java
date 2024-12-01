@@ -39,7 +39,7 @@ import java.io.IOException;
 /**
  * Layouter and main handler for web sites.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class Layouter extends HttpServlet {
 

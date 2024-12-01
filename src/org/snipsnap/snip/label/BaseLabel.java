@@ -37,7 +37,7 @@ import java.util.Map;
  * Base class for Labels with simple default behaviour
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class BaseLabel implements snipsnap.api.label.Label {

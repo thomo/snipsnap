@@ -37,7 +37,7 @@ import java.text.SimpleDateFormat;
  * Helper class for dealing with snips
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class SnipUtil {

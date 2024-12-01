@@ -49,7 +49,7 @@ import java.util.List;
  * displayed in reverse chronological order.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class WeblogMacro extends SnipMacro {

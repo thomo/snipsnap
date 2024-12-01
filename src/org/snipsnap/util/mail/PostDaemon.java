@@ -68,7 +68,7 @@ import java.util.Calendar;
  * posts them to a weblog (or Snip).
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class PostDaemon extends TimerTask {

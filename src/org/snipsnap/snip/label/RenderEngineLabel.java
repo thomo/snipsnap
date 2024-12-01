@@ -39,7 +39,7 @@ import java.util.Map;
  * engine. It is honoured by the Snip implementation.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class RenderEngineLabel implements snipsnap.api.label.Label {

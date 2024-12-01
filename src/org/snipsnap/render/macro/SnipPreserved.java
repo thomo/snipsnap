@@ -36,7 +36,7 @@ import java.io.Writer;
  * Preserved Macro, only for SnipSnap macros
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class SnipPreserved extends Preserved {

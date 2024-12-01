@@ -44,7 +44,7 @@ import java.util.StringTokenizer;
 /**
  * Export a Presentation from the SnipSpace
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class Presentation {
   public static void main(String[] args) {

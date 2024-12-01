@@ -43,7 +43,7 @@ import java.util.List;
  * Show the differences between two versions of a snip
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class DiffServlet extends HttpServlet {
 

@@ -38,7 +38,7 @@ import java.io.IOException;
  * Tag creates .
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class PathSelectorTag extends TagSupport {

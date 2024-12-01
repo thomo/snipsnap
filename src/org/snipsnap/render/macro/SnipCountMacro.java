@@ -38,7 +38,7 @@ import java.io.Writer;
  * Macro that displays the snip count
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class SnipCountMacro extends BaseMacro {

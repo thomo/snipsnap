@@ -41,7 +41,7 @@ import snipsnap.api.label.Label;
  * Manages the creation and finding of labels, e.g. by type.
  * Delivers a plugin structure to easily add labels.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class LabelManager {
   private Map typeMap;

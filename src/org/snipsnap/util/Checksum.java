@@ -31,7 +31,7 @@ import java.util.*;
 /**
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class Checksum {
   private String id;

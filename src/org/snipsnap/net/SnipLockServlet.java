@@ -43,7 +43,7 @@ import java.io.IOException;
 /**
  * Servlet to lock and unlock snips
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class SnipLockServlet extends HttpServlet {
   private final static Roles ALLOWED_ROLES = new Roles("Admin:Editor");

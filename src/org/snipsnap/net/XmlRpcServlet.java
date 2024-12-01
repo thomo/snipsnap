@@ -59,7 +59,7 @@ import java.util.Collection;
  * XmlRpc handler servlet
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class XmlRpcServlet extends HttpServlet {

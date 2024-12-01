@@ -40,7 +40,7 @@ import java.io.IOException;
  * Display version information about the weblog
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class VersionServlet extends HttpServlet {
   private Configuration config;

@@ -33,7 +33,7 @@ import java.util.List;
  * Manages versions of  snips
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface VersionManager {

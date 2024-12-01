@@ -1,7 +1,7 @@
  <%--
   ** Main layout template.
   ** @author Matthias L. Jugel
-  ** @version $Id$
+  ** 
   --%>
 
 <%@ page import="snipsnap.api.snip.SnipSpace,

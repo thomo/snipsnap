@@ -33,7 +33,7 @@ import java.io.Writer;
  * constructor.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class StringBufferWriter extends Writer {

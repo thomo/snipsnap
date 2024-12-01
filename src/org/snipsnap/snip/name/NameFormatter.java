@@ -31,7 +31,7 @@ package org.snipsnap.snip.name;
  * remove the leading path of a name.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public interface NameFormatter {

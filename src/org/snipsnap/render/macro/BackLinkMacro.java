@@ -35,7 +35,7 @@ import java.io.Writer;
  * Macro that displays a list of the backlinks for the snip
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class BackLinkMacro extends ListOutputMacro {

@@ -45,7 +45,7 @@ import java.util.Map;
  * since not all filesystems can store UTF-8 file names.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 
 public class XMLFileSnipStorage extends OneFileSnipStorage {

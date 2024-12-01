@@ -42,7 +42,7 @@ import java.sql.Timestamp;
  * metadata and one for the content.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public abstract class TwoFileSnipStorage extends FileSnipStorage {

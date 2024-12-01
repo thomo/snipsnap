@@ -30,7 +30,7 @@ import java.util.List;
 /**
  * Queue implementation for Weblogs.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 public class WeblogQueue {
   private LinkedList queue;

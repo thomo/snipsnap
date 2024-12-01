@@ -31,7 +31,7 @@ package org.snipsnap.xmlrpc;
  * http://www.ecyrd.com/JSPWiki/Wiki.jsp?page=WikiRPCInterface
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class WikiHandler {

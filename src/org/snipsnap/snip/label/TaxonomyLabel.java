@@ -47,7 +47,7 @@ import org.snipsnap.user.AuthenticationService;
  * like OO (parent) -> Java (this)
  *
  * @author Franziska Wohl
- * @version $Id$
+ * 
  */
 public class TaxonomyLabel extends BaseLabel {
 

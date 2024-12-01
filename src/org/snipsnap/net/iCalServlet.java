@@ -48,7 +48,7 @@ import java.util.Iterator;
 /**
  * Store an iCalendar.
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public class iCalServlet extends HttpServlet {
   private final static int WD_CREATED = 201;

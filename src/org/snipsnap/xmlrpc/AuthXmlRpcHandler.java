@@ -37,7 +37,7 @@ import java.util.Vector;
  * target or a sub class.
  *
  * @author Matthias L. Jugel
- * @version $Id$
+ * 
  */
 public abstract class AuthXmlRpcHandler implements AuthenticatedXmlRpcHandler {
 

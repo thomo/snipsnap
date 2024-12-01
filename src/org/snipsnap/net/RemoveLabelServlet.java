@@ -43,7 +43,7 @@ import java.io.IOException;
 /**
  * Removing a label from a snip
  * @author Marco Mosconi
- * @version $Id$
+ * 
  */
 public class RemoveLabelServlet extends HttpServlet {
   protected void doPost(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse)

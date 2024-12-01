@@ -40,7 +40,7 @@ import java.io.Writer;
  * Macro that displays the user count
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class UserCountMacro extends BaseMacro {

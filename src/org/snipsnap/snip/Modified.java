@@ -40,7 +40,7 @@ import snipsnap.api.snip.SnipLink;
  *  Modified can be pretty printed.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class Modified {

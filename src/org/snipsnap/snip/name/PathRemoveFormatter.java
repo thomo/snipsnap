@@ -30,7 +30,7 @@ package org.snipsnap.snip.name;
  * Formatter that capitalizes the name
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class PathRemoveFormatter implements NameFormatter {

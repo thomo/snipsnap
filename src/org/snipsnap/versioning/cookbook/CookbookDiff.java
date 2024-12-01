@@ -50,7 +50,7 @@ import java.util.StringTokenizer;
  * Returns differences between two text strings
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  *
  * @author	Ian F. Darwin, Java version
  * @author	D. C. Lindsay, C version (1982-1987)

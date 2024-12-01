@@ -44,7 +44,7 @@ import java.io.StringWriter;
  * Example which shows howto get the Snip from the context.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class HelloSnipMacroExample extends TestCase {

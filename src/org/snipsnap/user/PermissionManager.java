@@ -31,7 +31,7 @@ import snipsnap.api.user.*;
  * Manages security and checks if a role has a permission.
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public interface PermissionManager {

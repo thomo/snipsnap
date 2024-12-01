@@ -44,7 +44,7 @@ import java.util.*;
  *
  //@TODO replace with dynamic proxy.
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class MemorySnipStorage implements SnipStorage {

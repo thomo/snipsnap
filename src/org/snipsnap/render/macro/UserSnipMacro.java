@@ -38,7 +38,7 @@ import java.text.MessageFormat;
  * Macro that displays all Snips by user
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class UserSnipMacro extends ListOutputMacro {

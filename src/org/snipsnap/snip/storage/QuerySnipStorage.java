@@ -45,7 +45,7 @@ import java.util.ArrayList;
  * kept in memory (via MemorySnipStorage).
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class QuerySnipStorage implements SnipStorage {

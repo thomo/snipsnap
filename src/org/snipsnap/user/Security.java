@@ -35,7 +35,7 @@ import snipsnap.api.container.Components;
  * Security manager for checking permission, roles etc.
  *
  * @author stephan
- * @version $Id$
+ * 
  */
 
 public class Security {

@@ -39,7 +39,7 @@ import java.io.Writer;
  * Macro that displays the running SnipSnap version
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class VersionMacro extends BaseMacro {

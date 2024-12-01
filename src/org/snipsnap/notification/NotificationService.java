@@ -42,7 +42,7 @@ import java.util.List;
  * e.g. JabberNotifier, IRCNotifier or MailNotitifier
  *
  * @author Stephan J. Schmidt
- * @version $Id$
+ * 
  */
 
 public class NotificationService implements Consumer {

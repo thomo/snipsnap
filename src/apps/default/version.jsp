@@ -12,7 +12,7 @@
   ** RSV display template.
   ** Really simple version protokoll
   ** @author Stephan J. Schmidt
-  ** @version $Id$
+  ** 
   --%>
   <engineName>SnipSnap</engineName>
   <engineLink>http://snipsnap.org</engineLink>
