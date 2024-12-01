@@ -84,7 +84,7 @@
   <!-- build binary distribution package -->
   <target depends="clean" description="tar source package" name="tar-source">
     <tstamp/>
-    <tar destfile="${dir.dist}/${appname}-${snipsnap.server.version}-${DSTAMP}-src.tgz" compression="gzip">
+    <tar destfile="../${appname}-${snipsnap.server.version}-src.tar.gz" compression="gzip">
       <tarfileset dir="." prefix="${appname}-${snipsnap.server.version}" mode="700">
         <include name="run.sh"/>
         <include name="run.bat"/>
@@ -118,7 +118,7 @@
 
   <target depends="all" description="tar binary package" name="tar-binary">
     <tstamp/>
-    <tar destfile="${dir.dist}/${appname}-${snipsnap.server.version}-${DSTAMP}.tgz" compression="gzip">
+    <tar destfile="../${appname}-${snipsnap.server.version}.tar.gz" compression="gzip">
       <tarfileset dir="${basedir}" prefix="${appname}-${snipsnap.server.version}" mode="700">
         <include name="run.sh"/>
         <include name="run.bat"/>
