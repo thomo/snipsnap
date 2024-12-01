@@ -1,5 +1,18 @@
-** REFERENCE CODE **
-[This code is the original SnipSnap source uploaded for reference!]
+## Build
+
+```bash
+./compile 
+```
+
+or
+
+```bash
+./compile ant dist
+```
+
+## Origin
+
+Content is based on the original SnipSnap source uploaded for reference, see https://github.com/thinkberg/snipsnap.
 
 SnipSnap 
 Copyright (c) 2000-2006 Fraunhofer Gesellschaft
