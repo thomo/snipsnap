@@ -18,7 +18,7 @@
     <pathelement location="${dir.libs}/commons-codec-1.3.jar"/>
     <pathelement location="${dir.libs}/commons-logging.jar"/>
     <pathelement location="${dir.libs}/httpclient-3.0-rc3.jar"/>
-    <pathelement location="${dir.libs}/${xmlrpc.jar}"/>
+    <pathelement location="${dir.libs}/xmlrpc-2.0.1.jar"/>
     <pathelement location="${dir.libs}/jdic.jar"/>
   </path>
 
@@ -50,7 +50,7 @@
     <pathelement location="${dir.libs}/commons-collections.jar"/>
     <pathelement location="${dir.libs}/commons-codec-1.3.jar"/>
     <pathelement location="${dir.libs}/commons-httpclient-3.0-rc3.jar"/>
-    <pathelement location="${dir.libs}/${xmlrpc.jar}"/>
+    <pathelement location="${dir.libs}/xmlrpc-2.0.1.jar"/>
     <pathelement location="${dir.libs}/lucene-1.4.1.jar"/>
     <pathelement location="${dir.libs}/jython.jar"/>
     <pathelement location="${dir.libs}/smack.jar"/>
@@ -84,7 +84,7 @@
   <!-- build binary distribution package -->
   <target depends="clean" description="tar source package" name="tar-source">
     <tstamp/>
-    <tar destfile="${dir.dist}/${appname}-${snipsnap.server.version}-${DSTAMP}-src.tgz" compression="gzip">
+    <tar destfile="${dir.dist}/${appname}-${snipsnap.server.version}-src.tar.gz" compression="gzip">
       <tarfileset dir="." prefix="${appname}-${snipsnap.server.version}" mode="700">
         <include name="run.sh"/>
         <include name="run.bat"/>
@@ -118,7 +118,7 @@
 
   <target depends="all" description="tar binary package" name="tar-binary">
     <tstamp/>
-    <tar destfile="${dir.dist}/${appname}-${snipsnap.server.version}-${DSTAMP}.tgz" compression="gzip">
+    <tar destfile="${dir.dist}/${appname}-${snipsnap.server.version}.tar.gz" compression="gzip">
       <tarfileset dir="${basedir}" prefix="${appname}-${snipsnap.server.version}" mode="700">
         <include name="run.sh"/>
         <include name="run.bat"/>
@@ -150,7 +150,7 @@
         <include name="lib/commons-logging.jar"/>
         <include name="lib/commons-httpclient-3.0-rc3.jar"/>
         <include name="lib/javax.servlet.jar"/>
-        <include name="lib/${xmlrpc.jar}"/>
+        <include name="lib/xmlrpc-2.0.1.jar"/>
         <include name="lib/mckoidb.jar"/>
         <include name="lib/dom4j.jar"/>
         <include name="lib/mysql-connector.jar"/>
@@ -304,7 +304,7 @@
         <include name="commons-codec-1.3.jar"/>
         <include name="commons-logging.jar"/>
         <include name="commons-httpclient-3.0-rc3.jar"/>
-        <include name="${xmlrpc.jar}"/>
+        <include name="xmlrpc-2.0.1.jar"/>
         <include name="mckoidb.jar"/>
         <include name="mysql-connector.jar"/>
         <include name="postgres-jdbc.jar"/>
@@ -526,7 +526,7 @@
         <include name="lucene-1.4.1.jar"/>
         <include name="commons-codec-1.3.jar"/>
         <include name="commons-httpclient-3.0-rc3.jar"/>
-        <include name="${xmlrpc.jar}"/>
+        <include name="xmlrpc-2.0.1.jar"/>
         <include name="dom4j.jar"/>
         <include name="smack.jar"/>
         <include name="aspectjrt.jar"/>

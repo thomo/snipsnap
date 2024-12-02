@@ -1,0 +1,17 @@
+volumes:
+  files:
+    driver: local
+  log:
+    driver: local
+
+services:
+  app:
+    restart: always
+    container_name: snipsnap
+    image: snxp:1.1
+    ports:
+      - "8668:8668"
+    volumes:
+      - log:/data/log/
+      - files:/data/applications/_8668_/webapp/WEB-INF/files/
+      - ./application.conf:/data/applications/_8668_/webapp/WEB-INF/application.conf
