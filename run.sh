@@ -25,7 +25,7 @@ esac
 
 JAVA_OPTS="$JAVA_OPTS -DentityExpansionLimit=1000000 -Djava.awt.headless=true -Xmx512m"
 # uncomment if you have a lot of memory and want optimizations
-JAVA_OPTS="$JAVA_OPTS -Xsqnopause -XX:+UseLWPSynchronization -Xms512m -Xmx1024m -Xss256k -XX:MaxNewSize=96m -XX:MaxPermSize=512m"
+JAVA_OPTS="$JAVA_OPTS -Xsqnopause -XX:+UseLWPSynchronization -Xms512m -Xmx1024m -Xss256k -XX:MaxNewSize=96m"
 
 $JAVA $JAVA_OPTS $DBG -Dlauncher.errlog=server.log -jar lib/snipsnap.jar $*
 
